@@ -1,0 +1,13 @@
+We have Two IPYNB files in this folder. ( You can test using live data in both the files)
+1) AudioToTextFromScratch.ipynb
+
+One is for Speech to text by using a dataset provided by Google to detect trivial words. The seperate outputs are in the file.
+
+2) TextToSpeech_and_SpeechToText_Togather/LanguageTranslation.ipynb
+
+This is for both Speech to text and text to speech We have used Speech Recognizer(For speech to text),Googletrans(translating), and gTTS(for text to speech). You can find the input and the output in the respective folders. In the ipynb file, you can record your voice and translate it to various languages which will be further converted into multiple audio Files.
+
+Input in TextToSpeech_and_SpeechToText_Togather/input/example.wav
+Output in TextToSpeech_and_SpeechToText_Togather/output/example(folder)
+
+
