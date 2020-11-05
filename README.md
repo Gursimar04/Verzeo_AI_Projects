@@ -4,14 +4,14 @@
 ### Table Of Contents
 - [Project-Directory](#project-directory)
 - [Outstanding-Projects](#outstanding-projects)
-    * CNN-for-MNIST-Dataset(##cnn-for-mnist-dataset)
-    * Motion-Detection-using-Pixel-Differencing(#motion-detection-using-pixel-differencing)
-    * Pedestrian-Detection-using-OPENCV(#motion-detection-using-pixel-differencing)
+    * [CNN-for-MNIST-Dataset](#cnn-for-mnist-dataset)
+    * [Motion-Detection-using-Pixel-Differencing](#motion-detection-using-pixel-differencing)
+    * [Pedestrian-Detection-using-OPENCV](#motion-detection-using-pixel-differencing)
 - [Major-Projects](#major-projects)
-    * Tensorflow-Speech-Recognition-Challenge(#tensorflow-speech-recognition-challenge)
-    * Speech-Translation-using-Google-APIs(#speech-translation-using-google-apis)
+    * [Tensorflow-Speech-Recognition-Challenge](#tensorflow-speech-recognition-challenge)
+    * [Speech-Translation-using-Google-APIs](#speech-translation-using-google-apis)
 - [Minor-Projects](#minorproject)
-    * CNN-for-Mask-Detection(#cnn-for-mask-detection)
+    * [CNN-for-Mask-Detection](#cnn-for-mask-detection)
 - [Author Info](#author-info)
 
 ---
