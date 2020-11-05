@@ -4,14 +4,14 @@
 ### Table Of Contents
 - [Project-Directory](#project-directory)
 - [Outstanding-Projects](#outstanding-projects)
-    * CNN-for-MNIST-Dataset(#cnn-for-mnist-dataset)
-    * Motion Detection using Pixel Differencing (#motion-detection-using-pixel-differencing)
-    * Pedestrian Detection using OPENCV (#motion-detection-using-pixel-differencing)
-- [Major Projects](#majorprojects)
-    * Tensorflow Speech Recognition Challenge (#tensorflow-speech-recognition-challenge)
-    * Speech Translation using Google API's (#speech-translation-using-google-api's)
-- [Minor Projects](#minorproject)
-    * CNN for Mask Detection (#cnn-for-mask-detection)
+    * CNN-for-MNIST-Dataset(##cnn-for-mnist-dataset)
+    * Motion-Detection-using-Pixel-Differencing(#motion-detection-using-pixel-differencing)
+    * Pedestrian-Detection-using-OPENCV(#motion-detection-using-pixel-differencing)
+- [Major-Projects](#major-projects)
+    * Tensorflow-Speech-Recognition-Challenge(#tensorflow-speech-recognition-challenge)
+    * Speech-Translation-using-Google-APIs(#speech-translation-using-google-apis)
+- [Minor-Projects](#minorproject)
+    * CNN-for-Mask-Detection(#cnn-for-mask-detection)
 - [Author Info](#author-info)
 
 ---
@@ -129,14 +129,14 @@
 ## Outstanding-Projects
 These 3 projects were completely optional and were to be done without any mentor guidance in exchange for an outstanding performer certificate.
     ### CNN-for-MNIST-Dataset
-    ### Motion Detection using Pixel Differencing
-    ### Pedestrian Detection using OPENCV (#motion-detection-using-pixel-differencing)
+    ### Motion-Detection-using-Pixel-Differencing
+    ### Pedestrian-Detection-using-OPENCV
     
-## Major Projects
-    ### Tensorflow Speech Recognition Challenge (#tensorflow-speech-recognition-challenge)
-    ### Speech Translation using Google API's (#speech-translation-using-google-api's)
-## Minor Projects
-    ### CNN for Mask Detection (#cnn-for-mask-detection)
+## Major-Projects
+    ### Tensorflow-Speech-Recognition-Challenge
+    ### Speech-Translation-using-Google-APIs
+## Minor-Projects
+    ### CNN-for-Mask-Detection
 
 ---
 
