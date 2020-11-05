@@ -130,13 +130,18 @@ These 3 projects were completely optional and were to be done without any mentor
 
    ### CNN-for-MNIST-Dataset
   MNIST ("Modified National Institute of Standards and Technology") is the “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. The goal for classification is to correctly identify digits from a dataset of tens of thousands of handwritten images. In the well-documented jupyter notebook, I have used Tensorflow's sequential API with Early stopping to train a CNN that can calssify the dataset with **99.39%** validation accuracy. At the end one can find the confusion matrix and the incorrectly predicted lables for review.
+  
+  <img src="Outstanding Projects/MNIST dataset/Accuracy..JPG">
     
    ### Motion-Detection-using-Pixel-Differencing
   Taking the input as a video of vehicles moving on a highway, the jupyter notebook contains the process of detecting motion though pixel differencing. The basic idea is to divide videos into its frame and find the difference in pixels beween consecutive frames. The technique is straightforward but works only with a still camera.
+  
+  <img src="Outstanding Projects/Movement Detection/frames/121.png"> <img src="Outstanding Projects/Movement Detection/output/16.png">
     
    ### Pedestrian-Detection-using-OPENCV
   OpenCV ships with a pre-trained HOG + Linear SVM model that can be used to perform pedestrian detection in both images and video streams. HOG stands for Histogram of Oriented Gradients. We will be using that to our advantage in this project. Read the ipynb file for more information
   
+  <img src="Outstanding Projects/Pedestrian Detection/Pedestrian/people-using-crosswalk-1024x569.jpg" width=305 height=200> <img src="Outstanding Projects/Pedestrian Detection/output.JPG"  width=305 height=200>
 ---
   
 ## Major-Projects
@@ -145,15 +150,16 @@ The folder consists of Audio-specific neural network model and a speech translat
    ### Tensorflow-Speech-Recognition-Challenge
    **Link to dataset:**  https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
     In this link one can find all the details related to this project.
-    
+     **Example(Audio Files) present in the folder**
    ### Speech-Translation-using-Google-APIs
   In this project we have taken advantage of speech recognizer, googletrans, and gTTS to translate audio into 50 different languages. The project is created with using this technique in a form of an app in the future. Peek into the IPYNB file for further details.
-  
+ **Example(Audio Files) present in the folder**
 ---
  ## Minor-Project
    ### CNN-for-Mask-Detection
    This model represents my first try at creating a deep learning model. Considering that it was my first attempt at binary calssification, it needs a lot of work and demands improvement. Will be doing it soon though.
 
+ <img src="/Verzeo_Minor_Project/Success_Images/detection.JPG"  width=375 height=250>
 ---
 
 ## Author Info
