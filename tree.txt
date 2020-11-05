@@ -1,0 +1,2211 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 4A07-5262
+D:.
+|   tree.txt
+|   
++---Outstanding Projects
+|   |   Outstanding-Project-3_Pedestrian Detection Model.ipynb
+|   |   
+|   +---.ipynb_checkpoints
+|   |       Outstanding-Project-3_Pedestrian Detection Model-checkpoint.ipynb
+|   |       
+|   +---MNIST dataset
+|   |   |   Outstanding-Project-1_MNIST_Gursimar.ipynb
+|   |   |   submission.csv
+|   |   |   test.csv
+|   |   |   train.csv
+|   |   |   
+|   |   \---.ipynb_checkpoints
+|   |           Outstanding-Project-1_MNIST_Gursimar-checkpoint.ipynb
+|   |           
+|   +---Movement Detection
+|   |   |   input.mp4
+|   |   |   Outstanding-Project-2_Movement Detection.ipynb
+|   |   |   vehicle_detection_v3.mp4
+|   |   |   
+|   |   +---.ipynb_checkpoints
+|   |   |       Outstanding-Project-2_Movement Detection-checkpoint.ipynb
+|   |   |       
+|   |   +---frames
+|   |   |       0.png
+|   |   |       1.png
+|   |   |       102.png
+|   |   |       103.png
+|   |   |       104.png
+|   |   |       105.png
+|   |   |       109.png
+|   |   |       110.png
+|   |   |       114.png
+|   |   |       115.png
+|   |   |       116.png
+|   |   |       120.png
+|   |   |       121.png
+|   |   |       122.png
+|   |   |       123.png
+|   |   |       127.png
+|   |   |       128.png
+|   |   |       13.png
+|   |   |       132.png
+|   |   |       133.png
+|   |   |       134.png
+|   |   |       135.png
+|   |   |       139.png
+|   |   |       14.png
+|   |   |       140.png
+|   |   |       141.png
+|   |   |       145.png
+|   |   |       146.png
+|   |   |       15.png
+|   |   |       150.png
+|   |   |       151.png
+|   |   |       152.png
+|   |   |       156.png
+|   |   |       157.png
+|   |   |       158.png
+|   |   |       162.png
+|   |   |       163.png
+|   |   |       164.png
+|   |   |       168.png
+|   |   |       169.png
+|   |   |       170.png
+|   |   |       171.png
+|   |   |       175.png
+|   |   |       176.png
+|   |   |       177.png
+|   |   |       181.png
+|   |   |       182.png
+|   |   |       186.png
+|   |   |       187.png
+|   |   |       188.png
+|   |   |       189.png
+|   |   |       19.png
+|   |   |       193.png
+|   |   |       194.png
+|   |   |       195.png
+|   |   |       199.png
+|   |   |       2.png
+|   |   |       20.png
+|   |   |       200.png
+|   |   |       204.png
+|   |   |       205.png
+|   |   |       206.png
+|   |   |       21.png
+|   |   |       210.png
+|   |   |       211.png
+|   |   |       212.png
+|   |   |       213.png
+|   |   |       217.png
+|   |   |       218.png
+|   |   |       219.png
+|   |   |       223.png
+|   |   |       224.png
+|   |   |       225.png
+|   |   |       229.png
+|   |   |       25.png
+|   |   |       26.png
+|   |   |       27.png
+|   |   |       3.png
+|   |   |       31.png
+|   |   |       32.png
+|   |   |       33.png
+|   |   |       37.png
+|   |   |       38.png
+|   |   |       39.png
+|   |   |       43.png
+|   |   |       44.png
+|   |   |       48.png
+|   |   |       49.png
+|   |   |       50.png
+|   |   |       51.png
+|   |   |       55.png
+|   |   |       56.png
+|   |   |       57.png
+|   |   |       61.png
+|   |   |       62.png
+|   |   |       63.png
+|   |   |       67.png
+|   |   |       68.png
+|   |   |       7.png
+|   |   |       72.png
+|   |   |       73.png
+|   |   |       74.png
+|   |   |       78.png
+|   |   |       79.png
+|   |   |       8.png
+|   |   |       80.png
+|   |   |       81.png
+|   |   |       85.png
+|   |   |       86.png
+|   |   |       87.png
+|   |   |       9.png
+|   |   |       91.png
+|   |   |       92.png
+|   |   |       96.png
+|   |   |       97.png
+|   |   |       98.png
+|   |   |       
+|   |   \---output
+|   |           0.png
+|   |           1.png
+|   |           10.png
+|   |           100.png
+|   |           101.png
+|   |           102.png
+|   |           103.png
+|   |           104.png
+|   |           105.png
+|   |           106.png
+|   |           107.png
+|   |           108.png
+|   |           109.png
+|   |           11.png
+|   |           110.png
+|   |           111.png
+|   |           112.png
+|   |           113.png
+|   |           114.png
+|   |           12.png
+|   |           13.png
+|   |           14.png
+|   |           15.png
+|   |           16.png
+|   |           17.png
+|   |           18.png
+|   |           19.png
+|   |           2.png
+|   |           20.png
+|   |           21.png
+|   |           22.png
+|   |           23.png
+|   |           24.png
+|   |           25.png
+|   |           26.png
+|   |           27.png
+|   |           28.png
+|   |           29.png
+|   |           3.png
+|   |           30.png
+|   |           31.png
+|   |           32.png
+|   |           33.png
+|   |           34.png
+|   |           35.png
+|   |           36.png
+|   |           37.png
+|   |           38.png
+|   |           39.png
+|   |           4.png
+|   |           40.png
+|   |           41.png
+|   |           42.png
+|   |           43.png
+|   |           44.png
+|   |           45.png
+|   |           46.png
+|   |           47.png
+|   |           48.png
+|   |           49.png
+|   |           5.png
+|   |           50.png
+|   |           51.png
+|   |           52.png
+|   |           53.png
+|   |           54.png
+|   |           55.png
+|   |           56.png
+|   |           57.png
+|   |           58.png
+|   |           59.png
+|   |           6.png
+|   |           60.png
+|   |           61.png
+|   |           62.png
+|   |           63.png
+|   |           64.png
+|   |           65.png
+|   |           66.png
+|   |           67.png
+|   |           68.png
+|   |           69.png
+|   |           7.png
+|   |           70.png
+|   |           71.png
+|   |           72.png
+|   |           73.png
+|   |           74.png
+|   |           75.png
+|   |           76.png
+|   |           77.png
+|   |           78.png
+|   |           79.png
+|   |           8.png
+|   |           80.png
+|   |           81.png
+|   |           82.png
+|   |           83.png
+|   |           84.png
+|   |           85.png
+|   |           86.png
+|   |           87.png
+|   |           88.png
+|   |           89.png
+|   |           9.png
+|   |           90.png
+|   |           91.png
+|   |           92.png
+|   |           93.png
+|   |           94.png
+|   |           95.png
+|   |           96.png
+|   |           97.png
+|   |           98.png
+|   |           99.png
+|   |           
+|   \---Pedestrian Detection
+|       |   Outstanding-Project-3_Pedestrian Detection Model.ipynb
+|       |   
+|       +---.ipynb_checkpoints
+|       \---Pedestrian
+|               20200630-031442-ENT sheriff won't enforce mask rule 7-1-20.jpg
+|               2RJN2JG3QFEAFJDLTR76LC3S3U.jpg
+|               bengalurustreets-k1GH--621x414@LiveMint.webp
+|               crossing-virendra-connaught-hindustan-october-dangerously-disrupting_11f863f4-2cd9-11e6-ae51-029221314c47.webp
+|               download (3).jpg
+|               download.jpg
+|               empty-streets-effect-pandemic-unexpected-lesson-life-after-cars-2.jpg
+|               images.jpg
+|               james-weber-japan-cover.jpg
+|               Pedestrians800x450.jpg
+|               people-using-crosswalk-1024x569.jpg
+|               
++---Verzeo_Major_Projects
+|   |   Please Read.txt
+|   |   
+|   +---.ipynb_checkpoints
+|   |       AudioToTextFromScratch-checkpoint.ipynb
+|   |       
+|   +---AudioToTextFromScratch
+|   |   |   AudioToTextFromScratch.ipynb
+|   |   |   
+|   |   +---best_model
+|   |   |   |   Please Read.txt
+|   |   |   |   saved_model.pb
+|   |   |   |   
+|   |   |   +---assets
+|   |   |   \---variables
+|   |   |           variables.data-00000-of-00001
+|   |   |           variables.index
+|   |   |           
+|   |   +---input
+|   |   |   \---voice_commands
+|   |   |       \---simar_voice
+|   |   |               down.wav
+|   |   |               go.wav
+|   |   |               left.wav
+|   |   |               no.wav
+|   |   |               off.wav
+|   |   |               on.wav
+|   |   |               right.wav
+|   |   |               stop.wav
+|   |   |               up.wav
+|   |   |               yes.wav
+|   |   |               
+|   |   \---train
+|   |       |   DatasetLink.txt
+|   |       |   
+|   |       \---train
+|   |           \---train
+|   |               |   LICENSE
+|   |               |   README.md
+|   |               |   testing_list.txt
+|   |               |   validation_list.txt
+|   |               |   
+|   |               \---audio
+|   |                       read.txt
+|   |                       
+|   \---TextToSpeech_and_SpeechToText_Togather
+|       |   LanguageTranslation.ipynb
+|       |   Please Read.txt
+|       |   
+|       +---.ipynb_checkpoints
+|       |       LanguageTranslation-checkpoint.ipynb
+|       |       
+|       +---input
+|       |       example.wav
+|       |       try.wav
+|       |       
+|       \---output
+|           |   afrikaans.mp3
+|           |   albanian.mp3
+|           |   arabic.mp3
+|           |   armenian.mp3
+|           |   bengali.mp3
+|           |   bosnian.mp3
+|           |   catalan.mp3
+|           |   chinese (simplified).mp3
+|           |   chinese (traditional).mp3
+|           |   croatian.mp3
+|           |   czech.mp3
+|           |   danish.mp3
+|           |   dutch.mp3
+|           |   english.mp3
+|           |   estonian.mp3
+|           |   filipino.mp3
+|           |   finnish.mp3
+|           |   french.mp3
+|           |   german.mp3
+|           |   greek.mp3
+|           |   gujarati.mp3
+|           |   hindi.mp3
+|           |   hungarian.mp3
+|           |   icelandic.mp3
+|           |   indonesian.mp3
+|           |   italian.mp3
+|           |   japanese.mp3
+|           |   kannada.mp3
+|           |   korean.mp3
+|           |   latin.mp3
+|           |   latvian.mp3
+|           |   malayalam.mp3
+|           |   marathi.mp3
+|           |   myanmar (burmese).mp3
+|           |   nepali.mp3
+|           |   norwegian.mp3
+|           |   polish.mp3
+|           |   portuguese.mp3
+|           |   romanian.mp3
+|           |   russian.mp3
+|           |   serbian.mp3
+|           |   slovak.mp3
+|           |   spanish.mp3
+|           |   swedish.mp3
+|           |   tamil.mp3
+|           |   telugu.mp3
+|           |   thai.mp3
+|           |   turkish.mp3
+|           |   ukrainian.mp3
+|           |   urdu.mp3
+|           |   vietnamese.mp3
+|           |   welsh.mp3
+|           |   
+|           \---example
+|                   bengali.mp3
+|                   english.mp3
+|                   gujarati.mp3
+|                   hindi.mp3
+|                   tamil.mp3
+|                   telugu.mp3
+|                   urdu.mp3
+|                   
+\---Verzeo_Minor_Project
+    |   GettyImages-1216623969.jpg
+    |   haarcascade_frontalface_alt.xml
+    |   mask_classifier.ipynb
+    |   mask_cnn
+    |   randomImage1.jpg
+    |   
+    +---.ipynb_checkpoints
+    |       mask_classifier-checkpoint.ipynb
+    |       
+    +---Dataset COVID-19 Augmented
+    |   +---test
+    |   |   +---mask
+    |   |   |       100-with-mask.jpg
+    |   |   |       105-with-mask.jpg
+    |   |   |       107-with-mask.jpg
+    |   |   |       108-with-mask.jpg
+    |   |   |       109-with-mask.jpg
+    |   |   |       110-with-mask.jpg
+    |   |   |       115-with-mask.jpg
+    |   |   |       121-with-mask.jpg
+    |   |   |       123-with-mask.jpg
+    |   |   |       13-with-mask.jpg
+    |   |   |       135-with-mask.jpg
+    |   |   |       138-with-mask.jpg
+    |   |   |       140-with-mask.jpg
+    |   |   |       141-with-mask.jpg
+    |   |   |       143-with-mask.jpg
+    |   |   |       146-with-mask.jpg
+    |   |   |       147-with-mask.jpg
+    |   |   |       151-with-mask.jpg
+    |   |   |       153-with-mask.jpg
+    |   |   |       154-with-mask.jpg
+    |   |   |       158-with-mask.jpg
+    |   |   |       16-with-mask.jpg
+    |   |   |       174-with-mask.jpg
+    |   |   |       175-with-mask.jpg
+    |   |   |       19-with-mask.jpg
+    |   |   |       196-with-mask.jpg
+    |   |   |       205-with-mask.jpg
+    |   |   |       214-with-mask.jpg
+    |   |   |       222-with-mask.jpg
+    |   |   |       225-with-mask.jpg
+    |   |   |       226-with-mask.jpg
+    |   |   |       227-with-mask.jpg
+    |   |   |       228-with-mask.jpg
+    |   |   |       229-with-mask.jpg
+    |   |   |       234-with-mask.jpg
+    |   |   |       24-with-mask.jpg
+    |   |   |       244-with-mask.jpg
+    |   |   |       246-with-mask.jpg
+    |   |   |       254-with-mask.jpg
+    |   |   |       255-with-mask.jpg
+    |   |   |       256-with-mask.jpg
+    |   |   |       26-with-mask.jpg
+    |   |   |       260-with-mask.jpg
+    |   |   |       261-with-mask.jpg
+    |   |   |       263-with-mask.jpg
+    |   |   |       267-with-mask.jpg
+    |   |   |       27-with-mask.jpg
+    |   |   |       275-with-mask.jpg
+    |   |   |       277-with-mask.jpg
+    |   |   |       279-with-mask.jpg
+    |   |   |       281-with-mask.jpg
+    |   |   |       282-with-mask.jpg
+    |   |   |       285-with-mask.jpg
+    |   |   |       302-with-mask.jpg
+    |   |   |       304-with-mask.jpg
+    |   |   |       309-with-mask.jpg
+    |   |   |       31-with-mask.jpg
+    |   |   |       311-with-mask.jpg
+    |   |   |       315-with-mask.jpg
+    |   |   |       322-with-mask.jpg
+    |   |   |       324-with-mask.jpg
+    |   |   |       325-with-mask.jpg
+    |   |   |       338-with-mask.jpg
+    |   |   |       342-with-mask.jpg
+    |   |   |       345-with-mask.jpg
+    |   |   |       346-with-mask.jpg
+    |   |   |       348-with-mask.jpg
+    |   |   |       35-with-mask.jpg
+    |   |   |       351-with-mask.jpg
+    |   |   |       359-with-mask.jpg
+    |   |   |       368-with-mask.jpg
+    |   |   |       369-with-mask.jpg
+    |   |   |       375-with-mask.jpg
+    |   |   |       377-with-mask.jpg
+    |   |   |       381-with-mask.jpg
+    |   |   |       383-with-mask.jpg
+    |   |   |       384-with-mask.jpg
+    |   |   |       386-with-mask.jpg
+    |   |   |       387-with-mask.jpg
+    |   |   |       392-with-mask.jpg
+    |   |   |       393-with-mask.jpg
+    |   |   |       395-with-mask.jpg
+    |   |   |       396-with-mask.jpg
+    |   |   |       397-with-mask.jpg
+    |   |   |       398-with-mask.jpg
+    |   |   |       404-with-mask.jpg
+    |   |   |       406-with-mask.jpg
+    |   |   |       407-with-mask.jpg
+    |   |   |       418-with-mask.jpg
+    |   |   |       419-with-mask.jpg
+    |   |   |       424-with-mask.jpg
+    |   |   |       43-with-mask.jpg
+    |   |   |       433-with-mask.jpg
+    |   |   |       440-with-mask.jpg
+    |   |   |       441-with-mask.jpg
+    |   |   |       442-with-mask.jpg
+    |   |   |       443-with-mask.jpg
+    |   |   |       448-with-mask.jpg
+    |   |   |       449-with-mask.jpg
+    |   |   |       450-with-mask.jpg
+    |   |   |       453-with-mask.jpg
+    |   |   |       457-with-mask.jpg
+    |   |   |       461-with-mask.jpg
+    |   |   |       463-with-mask.jpg
+    |   |   |       464-with-mask.jpg
+    |   |   |       473-with-mask.jpg
+    |   |   |       475-with-mask.jpg
+    |   |   |       476-with-mask.jpg
+    |   |   |       48-with-mask.jpg
+    |   |   |       481-with-mask.jpg
+    |   |   |       50-with-mask.jpg
+    |   |   |       53-with-mask.jpg
+    |   |   |       57-with-mask.jpg
+    |   |   |       67-with-mask.jpg
+    |   |   |       7-with-mask.jpg
+    |   |   |       70-with-mask.jpg
+    |   |   |       83-with-mask.jpg
+    |   |   |       augmented_image_1.jpg
+    |   |   |       augmented_image_100.jpg
+    |   |   |       augmented_image_111.jpg
+    |   |   |       augmented_image_114.jpg
+    |   |   |       augmented_image_116.jpg
+    |   |   |       augmented_image_118.jpg
+    |   |   |       augmented_image_120.jpg
+    |   |   |       augmented_image_125.jpg
+    |   |   |       augmented_image_130.jpg
+    |   |   |       augmented_image_132.jpg
+    |   |   |       augmented_image_136.jpg
+    |   |   |       augmented_image_14.jpg
+    |   |   |       augmented_image_142.jpg
+    |   |   |       augmented_image_146.jpg
+    |   |   |       augmented_image_147.jpg
+    |   |   |       augmented_image_148.jpg
+    |   |   |       augmented_image_15.jpg
+    |   |   |       augmented_image_153.jpg
+    |   |   |       augmented_image_16.jpg
+    |   |   |       augmented_image_163.jpg
+    |   |   |       augmented_image_165.jpg
+    |   |   |       augmented_image_167.jpg
+    |   |   |       augmented_image_168.jpg
+    |   |   |       augmented_image_169.jpg
+    |   |   |       augmented_image_171.jpg
+    |   |   |       augmented_image_172.jpg
+    |   |   |       augmented_image_181.jpg
+    |   |   |       augmented_image_184.jpg
+    |   |   |       augmented_image_187.jpg
+    |   |   |       augmented_image_189.jpg
+    |   |   |       augmented_image_193.jpg
+    |   |   |       augmented_image_196.jpg
+    |   |   |       augmented_image_198.jpg
+    |   |   |       augmented_image_199.jpg
+    |   |   |       augmented_image_201.jpg
+    |   |   |       augmented_image_204.jpg
+    |   |   |       augmented_image_205.jpg
+    |   |   |       augmented_image_209.jpg
+    |   |   |       augmented_image_212.jpg
+    |   |   |       augmented_image_216.jpg
+    |   |   |       augmented_image_219.jpg
+    |   |   |       augmented_image_220.jpg
+    |   |   |       augmented_image_221.jpg
+    |   |   |       augmented_image_228.jpg
+    |   |   |       augmented_image_230.jpg
+    |   |   |       augmented_image_232.jpg
+    |   |   |       augmented_image_239.jpg
+    |   |   |       augmented_image_24.jpg
+    |   |   |       augmented_image_243.jpg
+    |   |   |       augmented_image_257.jpg
+    |   |   |       augmented_image_266.jpg
+    |   |   |       augmented_image_267.jpg
+    |   |   |       augmented_image_268.jpg
+    |   |   |       augmented_image_27.jpg
+    |   |   |       augmented_image_270.jpg
+    |   |   |       augmented_image_287.jpg
+    |   |   |       augmented_image_296.jpg
+    |   |   |       augmented_image_299.jpg
+    |   |   |       augmented_image_30.jpg
+    |   |   |       augmented_image_305.jpg
+    |   |   |       augmented_image_31.jpg
+    |   |   |       augmented_image_314.jpg
+    |   |   |       augmented_image_34.jpg
+    |   |   |       augmented_image_37.jpg
+    |   |   |       augmented_image_39.jpg
+    |   |   |       augmented_image_48.jpg
+    |   |   |       augmented_image_49.jpg
+    |   |   |       augmented_image_52.jpg
+    |   |   |       augmented_image_55.jpg
+    |   |   |       augmented_image_56.jpg
+    |   |   |       augmented_image_59.jpg
+    |   |   |       augmented_image_65.jpg
+    |   |   |       augmented_image_68.jpg
+    |   |   |       augmented_image_69.jpg
+    |   |   |       augmented_image_7.jpg
+    |   |   |       augmented_image_71.jpg
+    |   |   |       augmented_image_82.jpg
+    |   |   |       augmented_image_88.jpg
+    |   |   |       augmented_image_92.jpg
+    |   |   |       augmented_image_94.jpg
+    |   |   |       augmented_image_96.jpg
+    |   |   |       augmented_image_99.jpg
+    |   |   |       pra3.jpg
+    |   |   |       
+    |   |   \---nonmask
+    |   |           101.jpg
+    |   |           102.jpg
+    |   |           109.jpg
+    |   |           116.jpg
+    |   |           119.jpg
+    |   |           12.jpg
+    |   |           127.jpg
+    |   |           131.jpg
+    |   |           136.jpg
+    |   |           143.jpg
+    |   |           15.jpg
+    |   |           152.jpg
+    |   |           156.jpg
+    |   |           158.jpg
+    |   |           16.jpg
+    |   |           160.jpg
+    |   |           166.jpg
+    |   |           175.jpg
+    |   |           177.jpg
+    |   |           181.jpg
+    |   |           183.jpg
+    |   |           187.jpg
+    |   |           194.jpg
+    |   |           195.jpg
+    |   |           203.jpg
+    |   |           204.jpg
+    |   |           227.jpg
+    |   |           229.jpg
+    |   |           23.jpg
+    |   |           230.jpg
+    |   |           232.jpg
+    |   |           234.jpg
+    |   |           239.jpg
+    |   |           240.jpg
+    |   |           242.jpg
+    |   |           247.jpg
+    |   |           248.jpg
+    |   |           250.jpg
+    |   |           258.jpg
+    |   |           261.jpg
+    |   |           262.jpg
+    |   |           265.jpg
+    |   |           267.jpg
+    |   |           271.jpg
+    |   |           276.jpg
+    |   |           283.jpg
+    |   |           284.jpg
+    |   |           285.jpg
+    |   |           289.jpg
+    |   |           295.jpg
+    |   |           299.jpg
+    |   |           30.jpg
+    |   |           307.jpg
+    |   |           308.jpg
+    |   |           310.jpg
+    |   |           323.jpg
+    |   |           325.jpg
+    |   |           329.jpg
+    |   |           332.jpg
+    |   |           335.jpg
+    |   |           336.jpg
+    |   |           345.jpg
+    |   |           349.jpg
+    |   |           350.jpg
+    |   |           353.jpg
+    |   |           356.jpg
+    |   |           36.jpg
+    |   |           360.jpg
+    |   |           367.jpg
+    |   |           370.jpg
+    |   |           373.jpg
+    |   |           376.jpg
+    |   |           378.jpg
+    |   |           388.jpg
+    |   |           40.jpg
+    |   |           407.jpg
+    |   |           411.jpg
+    |   |           412.jpg
+    |   |           414.jpg
+    |   |           415.jpg
+    |   |           42.jpg
+    |   |           420.jpg
+    |   |           423.jpg
+    |   |           424.jpg
+    |   |           425.jpg
+    |   |           427.jpg
+    |   |           438.jpg
+    |   |           444.jpg
+    |   |           451.jpg
+    |   |           452.jpg
+    |   |           453.jpg
+    |   |           454.jpg
+    |   |           457.jpg
+    |   |           459.jpg
+    |   |           46.jpg
+    |   |           465.jpg
+    |   |           466.jpg
+    |   |           467.jpg
+    |   |           47.jpg
+    |   |           475.jpg
+    |   |           477.jpg
+    |   |           52.jpg
+    |   |           53.jpg
+    |   |           58.jpg
+    |   |           61.jpg
+    |   |           66.jpg
+    |   |           67.jpg
+    |   |           7.jpg
+    |   |           70.jpg
+    |   |           74.jpg
+    |   |           76.jpg
+    |   |           81.jpg
+    |   |           83.jpg
+    |   |           84.jpg
+    |   |           88.jpg
+    |   |           97.jpg
+    |   |           augmented_image_111.jpg
+    |   |           augmented_image_113.jpg
+    |   |           augmented_image_114.jpg
+    |   |           augmented_image_12.jpg
+    |   |           augmented_image_124.jpg
+    |   |           augmented_image_125.jpg
+    |   |           augmented_image_129.jpg
+    |   |           augmented_image_13.jpg
+    |   |           augmented_image_132.jpg
+    |   |           augmented_image_134.jpg
+    |   |           augmented_image_141.jpg
+    |   |           augmented_image_142.jpg
+    |   |           augmented_image_145.jpg
+    |   |           augmented_image_151.jpg
+    |   |           augmented_image_154.jpg
+    |   |           augmented_image_157.jpg
+    |   |           augmented_image_158.jpg
+    |   |           augmented_image_162.jpg
+    |   |           augmented_image_17.jpg
+    |   |           augmented_image_179.jpg
+    |   |           augmented_image_18.jpg
+    |   |           augmented_image_180.jpg
+    |   |           augmented_image_185.jpg
+    |   |           augmented_image_191.jpg
+    |   |           augmented_image_197.jpg
+    |   |           augmented_image_199.jpg
+    |   |           augmented_image_202.jpg
+    |   |           augmented_image_205.jpg
+    |   |           augmented_image_206.jpg
+    |   |           augmented_image_214.jpg
+    |   |           augmented_image_215.jpg
+    |   |           augmented_image_219.jpg
+    |   |           augmented_image_22.jpg
+    |   |           augmented_image_220.jpg
+    |   |           augmented_image_221.jpg
+    |   |           augmented_image_222.jpg
+    |   |           augmented_image_23.jpg
+    |   |           augmented_image_231.jpg
+    |   |           augmented_image_239.jpg
+    |   |           augmented_image_240.jpg
+    |   |           augmented_image_241.jpg
+    |   |           augmented_image_243.jpg
+    |   |           augmented_image_246.jpg
+    |   |           augmented_image_249.jpg
+    |   |           augmented_image_258.jpg
+    |   |           augmented_image_262.jpg
+    |   |           augmented_image_263.jpg
+    |   |           augmented_image_266.jpg
+    |   |           augmented_image_270.jpg
+    |   |           augmented_image_271.jpg
+    |   |           augmented_image_272.jpg
+    |   |           augmented_image_280.jpg
+    |   |           augmented_image_281.jpg
+    |   |           augmented_image_282.jpg
+    |   |           augmented_image_290.jpg
+    |   |           augmented_image_291.jpg
+    |   |           augmented_image_295.jpg
+    |   |           augmented_image_298.jpg
+    |   |           augmented_image_303.jpg
+    |   |           augmented_image_304.jpg
+    |   |           augmented_image_305.jpg
+    |   |           augmented_image_311.jpg
+    |   |           augmented_image_312.jpg
+    |   |           augmented_image_315.jpg
+    |   |           augmented_image_33.jpg
+    |   |           augmented_image_35.jpg
+    |   |           augmented_image_38.jpg
+    |   |           augmented_image_45.jpg
+    |   |           augmented_image_48.jpg
+    |   |           augmented_image_50.jpg
+    |   |           augmented_image_51.jpg
+    |   |           augmented_image_53.jpg
+    |   |           augmented_image_54.jpg
+    |   |           augmented_image_58.jpg
+    |   |           augmented_image_60.jpg
+    |   |           augmented_image_62.jpg
+    |   |           augmented_image_82.jpg
+    |   |           augmented_image_86.jpg
+    |   |           augmented_image_87.jpg
+    |   |           augmented_image_91.jpg
+    |   |           augmented_image_92.jpg
+    |   |           augmented_image_93.jpg
+    |   |           augmented_image_94.jpg
+    |   |           augmented_image_98.jpg
+    |   |           
+    |   +---train
+    |   |   +---mask
+    |   |   |       0-with-mask.jpg
+    |   |   |       1-with-mask.jpg
+    |   |   |       10-with-mask.jpg
+    |   |   |       100-with-mask.jpg
+    |   |   |       101-with-mask.jpg
+    |   |   |       103-with-mask.jpg
+    |   |   |       104-with-mask.jpg
+    |   |   |       105-with-mask.jpg
+    |   |   |       106-with-mask.jpg
+    |   |   |       107-with-mask.jpg
+    |   |   |       108-with-mask.jpg
+    |   |   |       109-with-mask.jpg
+    |   |   |       110-with-mask.jpg
+    |   |   |       112-with-mask.jpg
+    |   |   |       113-with-mask.jpg
+    |   |   |       114-with-mask.jpg
+    |   |   |       115-with-mask.jpg
+    |   |   |       116-with-mask.jpg
+    |   |   |       117-with-mask.jpg
+    |   |   |       118-with-mask.jpg
+    |   |   |       119-with-mask.jpg
+    |   |   |       12-with-mask.jpg
+    |   |   |       120-with-mask.jpg
+    |   |   |       121-with-mask.jpg
+    |   |   |       122-with-mask.jpg
+    |   |   |       123-with-mask.jpg
+    |   |   |       124-with-mask.jpg
+    |   |   |       125-with-mask.jpg
+    |   |   |       126-with-mask.jpg
+    |   |   |       127-with-mask.jpg
+    |   |   |       128-with-mask.jpg
+    |   |   |       129-with-mask.jpg
+    |   |   |       131-with-mask.jpg
+    |   |   |       132-with-mask.jpg
+    |   |   |       133-with-mask.jpg
+    |   |   |       134-with-mask.jpg
+    |   |   |       135-with-mask.jpg
+    |   |   |       136-with-mask.jpg
+    |   |   |       137-with-mask.jpg
+    |   |   |       138-with-mask.jpg
+    |   |   |       139-with-mask.jpg
+    |   |   |       14-with-mask.jpg
+    |   |   |       140-with-mask.jpg
+    |   |   |       141-with-mask.jpg
+    |   |   |       143-with-mask.jpg
+    |   |   |       144-with-mask.jpg
+    |   |   |       146-with-mask.jpg
+    |   |   |       147-with-mask.jpg
+    |   |   |       148-with-mask.jpg
+    |   |   |       15-with-mask.jpg
+    |   |   |       150-with-mask.jpg
+    |   |   |       151-with-mask.jpg
+    |   |   |       152-with-mask.jpg
+    |   |   |       153-with-mask.jpg
+    |   |   |       154-with-mask.jpg
+    |   |   |       155-with-mask.jpg
+    |   |   |       156-with-mask.jpg
+    |   |   |       157-with-mask.jpg
+    |   |   |       158-with-mask.jpg
+    |   |   |       159-with-mask.jpg
+    |   |   |       16-with-mask.jpg
+    |   |   |       160-with-mask.jpg
+    |   |   |       161-with-mask.jpg
+    |   |   |       162-with-mask.jpg
+    |   |   |       163-with-mask.jpg
+    |   |   |       167-with-mask.jpg
+    |   |   |       168-with-mask.jpg
+    |   |   |       169-with-mask.jpg
+    |   |   |       17-with-mask.jpg
+    |   |   |       171-with-mask.jpg
+    |   |   |       172-with-mask.jpg
+    |   |   |       173-with-mask.jpg
+    |   |   |       174-with-mask.jpg
+    |   |   |       176-with-mask.jpg
+    |   |   |       177-with-mask.jpg
+    |   |   |       18-with-mask.jpg
+    |   |   |       180-with-mask.jpg
+    |   |   |       181-with-mask.jpg
+    |   |   |       182-with-mask.jpg
+    |   |   |       183-with-mask.jpg
+    |   |   |       184-with-mask.jpg
+    |   |   |       185-with-mask.jpg
+    |   |   |       186-with-mask.jpg
+    |   |   |       187-with-mask.jpg
+    |   |   |       189-with-mask.jpg
+    |   |   |       19-with-mask.jpg
+    |   |   |       190-with-mask.jpg
+    |   |   |       192-with-mask.jpg
+    |   |   |       193-with-mask.jpg
+    |   |   |       194-with-mask.jpg
+    |   |   |       195-with-mask.jpg
+    |   |   |       196-with-mask.jpg
+    |   |   |       197-with-mask.jpg
+    |   |   |       2-with-mask.jpg
+    |   |   |       200-with-mask.jpg
+    |   |   |       201-with-mask.jpg
+    |   |   |       202-with-mask.jpg
+    |   |   |       203-with-mask.jpg
+    |   |   |       205-with-mask.jpg
+    |   |   |       206-with-mask.jpg
+    |   |   |       207-with-mask.jpg
+    |   |   |       209-with-mask.jpg
+    |   |   |       21-with-mask.jpg
+    |   |   |       211-with-mask.jpg
+    |   |   |       212-with-mask.jpg
+    |   |   |       214-with-mask.jpg
+    |   |   |       215-with-mask.jpg
+    |   |   |       217-with-mask.jpg
+    |   |   |       218-with-mask.jpg
+    |   |   |       219-with-mask.jpg
+    |   |   |       221-with-mask.jpg
+    |   |   |       222-with-mask.jpg
+    |   |   |       223-with-mask.jpg
+    |   |   |       224-with-mask.jpg
+    |   |   |       225-with-mask.jpg
+    |   |   |       226-with-mask.jpg
+    |   |   |       227-with-mask.jpg
+    |   |   |       228-with-mask.jpg
+    |   |   |       229-with-mask.jpg
+    |   |   |       23-with-mask.jpg
+    |   |   |       231-with-mask.jpg
+    |   |   |       232-with-mask.jpg
+    |   |   |       233-with-mask.jpg
+    |   |   |       234-with-mask.jpg
+    |   |   |       235-with-mask.jpg
+    |   |   |       236-with-mask.jpg
+    |   |   |       237-with-mask.jpg
+    |   |   |       238-with-mask.jpg
+    |   |   |       239-with-mask.jpg
+    |   |   |       24-with-mask.jpg
+    |   |   |       240-with-mask.jpg
+    |   |   |       241-with-mask.jpg
+    |   |   |       242-with-mask.jpg
+    |   |   |       243-with-mask.jpg
+    |   |   |       244-with-mask.jpg
+    |   |   |       246-with-mask.jpg
+    |   |   |       25-with-mask.jpg
+    |   |   |       251-with-mask.jpg
+    |   |   |       254-with-mask.jpg
+    |   |   |       255-with-mask.jpg
+    |   |   |       256-with-mask.jpg
+    |   |   |       257-with-mask.jpg
+    |   |   |       259-with-mask.jpg
+    |   |   |       26-with-mask.jpg
+    |   |   |       260-with-mask.jpg
+    |   |   |       262-with-mask.jpg
+    |   |   |       263-with-mask.jpg
+    |   |   |       267-with-mask.jpg
+    |   |   |       268-with-mask.jpg
+    |   |   |       269-with-mask.jpg
+    |   |   |       270-with-mask.jpg
+    |   |   |       272-with-mask.jpg
+    |   |   |       273-with-mask.jpg
+    |   |   |       274-with-mask.jpg
+    |   |   |       275-with-mask.jpg
+    |   |   |       276-with-mask.jpg
+    |   |   |       277-with-mask.jpg
+    |   |   |       278-with-mask.jpg
+    |   |   |       281-with-mask.jpg
+    |   |   |       283-with-mask.jpg
+    |   |   |       284-with-mask.jpg
+    |   |   |       285-with-mask.jpg
+    |   |   |       286-with-mask.jpg
+    |   |   |       287-with-mask.jpg
+    |   |   |       288-with-mask.jpg
+    |   |   |       289-with-mask.jpg
+    |   |   |       29-with-mask.jpg
+    |   |   |       290-with-mask.jpg
+    |   |   |       291-with-mask.jpg
+    |   |   |       293-with-mask.jpg
+    |   |   |       295-with-mask.jpg
+    |   |   |       296-with-mask.jpg
+    |   |   |       298-with-mask.jpg
+    |   |   |       299-with-mask.jpg
+    |   |   |       3-with-mask.jpg
+    |   |   |       30-with-mask.jpg
+    |   |   |       302-with-mask.jpg
+    |   |   |       303-with-mask.jpg
+    |   |   |       304-with-mask.jpg
+    |   |   |       306-with-mask.jpg
+    |   |   |       307-with-mask.jpg
+    |   |   |       309-with-mask.jpg
+    |   |   |       31-with-mask.jpg
+    |   |   |       311-with-mask.jpg
+    |   |   |       314-with-mask.jpg
+    |   |   |       315-with-mask.jpg
+    |   |   |       316-with-mask.jpg
+    |   |   |       317-with-mask.jpg
+    |   |   |       318-with-mask.jpg
+    |   |   |       319-with-mask.jpg
+    |   |   |       32-with-mask.jpg
+    |   |   |       322-with-mask.jpg
+    |   |   |       323-with-mask.jpg
+    |   |   |       324-with-mask.jpg
+    |   |   |       325-with-mask.jpg
+    |   |   |       326-with-mask.jpg
+    |   |   |       327-with-mask.jpg
+    |   |   |       330-with-mask.jpg
+    |   |   |       331-with-mask.jpg
+    |   |   |       332-with-mask.jpg
+    |   |   |       333-with-mask.jpg
+    |   |   |       334-with-mask.jpg
+    |   |   |       338-with-mask.jpg
+    |   |   |       339-with-mask.jpg
+    |   |   |       34-with-mask.jpg
+    |   |   |       340-with-mask.jpg
+    |   |   |       342-with-mask.jpg
+    |   |   |       343-with-mask.jpg
+    |   |   |       344-with-mask.jpg
+    |   |   |       345-with-mask.jpg
+    |   |   |       346-with-mask.jpg
+    |   |   |       347-with-mask.jpg
+    |   |   |       348-with-mask.jpg
+    |   |   |       349-with-mask.jpg
+    |   |   |       35-with-mask.jpg
+    |   |   |       353-with-mask.jpg
+    |   |   |       355-with-mask.jpg
+    |   |   |       356-with-mask.jpg
+    |   |   |       357-with-mask.jpg
+    |   |   |       358-with-mask.jpg
+    |   |   |       359-with-mask.jpg
+    |   |   |       36-with-mask.jpg
+    |   |   |       362-with-mask.jpg
+    |   |   |       364-with-mask.jpg
+    |   |   |       365-with-mask.jpg
+    |   |   |       366-with-mask.jpg
+    |   |   |       368-with-mask.jpg
+    |   |   |       369-with-mask.jpg
+    |   |   |       37-with-mask.jpg
+    |   |   |       374-with-mask.jpg
+    |   |   |       375-with-mask.jpg
+    |   |   |       376-with-mask.jpg
+    |   |   |       378-with-mask.jpg
+    |   |   |       379-with-mask.jpg
+    |   |   |       38-with-mask.jpg
+    |   |   |       380-with-mask.jpg
+    |   |   |       382-with-mask.jpg
+    |   |   |       383-with-mask.jpg
+    |   |   |       384-with-mask.jpg
+    |   |   |       386-with-mask.jpg
+    |   |   |       387-with-mask.jpg
+    |   |   |       39-with-mask.jpg
+    |   |   |       390-with-mask.jpg
+    |   |   |       391-with-mask.jpg
+    |   |   |       392-with-mask.jpg
+    |   |   |       393-with-mask.jpg
+    |   |   |       394-with-mask.jpg
+    |   |   |       395-with-mask.jpg
+    |   |   |       396-with-mask.jpg
+    |   |   |       397-with-mask.jpg
+    |   |   |       399-with-mask.jpg
+    |   |   |       4-with-mask.jpg
+    |   |   |       40-with-mask.jpg
+    |   |   |       400-with-mask.jpg
+    |   |   |       401-with-mask.jpg
+    |   |   |       402-with-mask.jpg
+    |   |   |       404-with-mask.jpg
+    |   |   |       405-with-mask.jpg
+    |   |   |       406-with-mask.jpg
+    |   |   |       407-with-mask.jpg
+    |   |   |       408-with-mask.jpg
+    |   |   |       409-with-mask.jpg
+    |   |   |       411-with-mask.jpg
+    |   |   |       413-with-mask.jpg
+    |   |   |       414-with-mask.jpg
+    |   |   |       415-with-mask.jpg
+    |   |   |       416-with-mask.jpg
+    |   |   |       417-with-mask.jpg
+    |   |   |       418-with-mask.jpg
+    |   |   |       419-with-mask.jpg
+    |   |   |       42-with-mask.jpg
+    |   |   |       420-with-mask.jpg
+    |   |   |       421-with-mask.jpg
+    |   |   |       422-with-mask.jpg
+    |   |   |       424-with-mask.jpg
+    |   |   |       425-with-mask.jpg
+    |   |   |       426-with-mask.jpg
+    |   |   |       427-with-mask.jpg
+    |   |   |       429-with-mask.jpg
+    |   |   |       43-with-mask.jpg
+    |   |   |       430-with-mask.jpg
+    |   |   |       431-with-mask.jpg
+    |   |   |       432-with-mask.jpg
+    |   |   |       433-with-mask.jpg
+    |   |   |       434-with-mask.jpg
+    |   |   |       435-with-mask.jpg
+    |   |   |       436-with-mask.jpg
+    |   |   |       438-with-mask.jpg
+    |   |   |       439-with-mask.jpg
+    |   |   |       440-with-mask.jpg
+    |   |   |       441-with-mask.jpg
+    |   |   |       442-with-mask.jpg
+    |   |   |       443-with-mask.jpg
+    |   |   |       444-with-mask.jpg
+    |   |   |       445-with-mask.jpg
+    |   |   |       446-with-mask.jpg
+    |   |   |       447-with-mask.jpg
+    |   |   |       45-with-mask.jpg
+    |   |   |       450-with-mask.jpg
+    |   |   |       451-with-mask.jpg
+    |   |   |       452-with-mask.jpg
+    |   |   |       453-with-mask.jpg
+    |   |   |       455-with-mask.jpg
+    |   |   |       456-with-mask.jpg
+    |   |   |       457-with-mask.jpg
+    |   |   |       458-with-mask.jpg
+    |   |   |       459-with-mask.jpg
+    |   |   |       46-with-mask.jpg
+    |   |   |       460-with-mask.jpg
+    |   |   |       461-with-mask.jpg
+    |   |   |       462-with-mask.jpg
+    |   |   |       463-with-mask.jpg
+    |   |   |       464-with-mask.jpg
+    |   |   |       47-with-mask.jpg
+    |   |   |       471-with-mask.jpg
+    |   |   |       472-with-mask.jpg
+    |   |   |       473-with-mask.jpg
+    |   |   |       474-with-mask.jpg
+    |   |   |       475-with-mask.jpg
+    |   |   |       476-with-mask.jpg
+    |   |   |       477-with-mask.jpg
+    |   |   |       478-with-mask.jpg
+    |   |   |       479-with-mask.jpg
+    |   |   |       48-with-mask.jpg
+    |   |   |       480-with-mask.jpg
+    |   |   |       481-with-mask.jpg
+    |   |   |       49-with-mask.jpg
+    |   |   |       5-with-mask.jpg
+    |   |   |       50-with-mask.jpg
+    |   |   |       52-with-mask.jpg
+    |   |   |       53-with-mask.jpg
+    |   |   |       56-with-mask.jpg
+    |   |   |       57-with-mask.jpg
+    |   |   |       6-with-mask.jpg
+    |   |   |       61-with-mask.jpg
+    |   |   |       62-with-mask.jpg
+    |   |   |       64-with-mask.jpg
+    |   |   |       65-with-mask.jpg
+    |   |   |       67-with-mask.jpg
+    |   |   |       68-with-mask.jpg
+    |   |   |       7-with-mask.jpg
+    |   |   |       72-with-mask.jpg
+    |   |   |       73-with-mask.jpg
+    |   |   |       75-with-mask.jpg
+    |   |   |       76-with-mask.jpg
+    |   |   |       77-with-mask.jpg
+    |   |   |       78-with-mask.jpg
+    |   |   |       79-with-mask.jpg
+    |   |   |       8-with-mask.jpg
+    |   |   |       80-with-mask.jpg
+    |   |   |       81-with-mask.jpg
+    |   |   |       82-with-mask.jpg
+    |   |   |       83-with-mask.jpg
+    |   |   |       84-with-mask.jpg
+    |   |   |       85-with-mask.jpg
+    |   |   |       88-with-mask.jpg
+    |   |   |       89-with-mask.jpg
+    |   |   |       9-with-mask.jpg
+    |   |   |       91-with-mask.jpg
+    |   |   |       92-with-mask.jpg
+    |   |   |       93-with-mask.jpg
+    |   |   |       94-with-mask.jpg
+    |   |   |       96-with-mask.jpg
+    |   |   |       97-with-mask.jpg
+    |   |   |       98-with-mask.jpg
+    |   |   |       99-with-mask.jpg
+    |   |   |       augmented_image_0.jpg
+    |   |   |       augmented_image_1.jpg
+    |   |   |       augmented_image_10.jpg
+    |   |   |       augmented_image_100.jpg
+    |   |   |       augmented_image_101.jpg
+    |   |   |       augmented_image_102.jpg
+    |   |   |       augmented_image_103.jpg
+    |   |   |       augmented_image_104.jpg
+    |   |   |       augmented_image_105.jpg
+    |   |   |       augmented_image_106.jpg
+    |   |   |       augmented_image_107.jpg
+    |   |   |       augmented_image_108.jpg
+    |   |   |       augmented_image_109.jpg
+    |   |   |       augmented_image_11.jpg
+    |   |   |       augmented_image_111.jpg
+    |   |   |       augmented_image_112.jpg
+    |   |   |       augmented_image_113.jpg
+    |   |   |       augmented_image_114.jpg
+    |   |   |       augmented_image_115.jpg
+    |   |   |       augmented_image_116.jpg
+    |   |   |       augmented_image_117.jpg
+    |   |   |       augmented_image_118.jpg
+    |   |   |       augmented_image_119.jpg
+    |   |   |       augmented_image_120.jpg
+    |   |   |       augmented_image_121.jpg
+    |   |   |       augmented_image_122.jpg
+    |   |   |       augmented_image_123.jpg
+    |   |   |       augmented_image_124.jpg
+    |   |   |       augmented_image_125.jpg
+    |   |   |       augmented_image_127.jpg
+    |   |   |       augmented_image_128.jpg
+    |   |   |       augmented_image_129.jpg
+    |   |   |       augmented_image_13.jpg
+    |   |   |       augmented_image_130.jpg
+    |   |   |       augmented_image_132.jpg
+    |   |   |       augmented_image_134.jpg
+    |   |   |       augmented_image_135.jpg
+    |   |   |       augmented_image_136.jpg
+    |   |   |       augmented_image_137.jpg
+    |   |   |       augmented_image_138.jpg
+    |   |   |       augmented_image_139.jpg
+    |   |   |       augmented_image_140.jpg
+    |   |   |       augmented_image_142.jpg
+    |   |   |       augmented_image_144.jpg
+    |   |   |       augmented_image_145.jpg
+    |   |   |       augmented_image_146.jpg
+    |   |   |       augmented_image_148.jpg
+    |   |   |       augmented_image_149.jpg
+    |   |   |       augmented_image_15.jpg
+    |   |   |       augmented_image_150.jpg
+    |   |   |       augmented_image_151.jpg
+    |   |   |       augmented_image_152.jpg
+    |   |   |       augmented_image_153.jpg
+    |   |   |       augmented_image_154.jpg
+    |   |   |       augmented_image_155.jpg
+    |   |   |       augmented_image_156.jpg
+    |   |   |       augmented_image_157.jpg
+    |   |   |       augmented_image_158.jpg
+    |   |   |       augmented_image_159.jpg
+    |   |   |       augmented_image_16.jpg
+    |   |   |       augmented_image_160.jpg
+    |   |   |       augmented_image_162.jpg
+    |   |   |       augmented_image_163.jpg
+    |   |   |       augmented_image_164.jpg
+    |   |   |       augmented_image_165.jpg
+    |   |   |       augmented_image_167.jpg
+    |   |   |       augmented_image_168.jpg
+    |   |   |       augmented_image_169.jpg
+    |   |   |       augmented_image_17.jpg
+    |   |   |       augmented_image_170.jpg
+    |   |   |       augmented_image_171.jpg
+    |   |   |       augmented_image_172.jpg
+    |   |   |       augmented_image_173.jpg
+    |   |   |       augmented_image_174.jpg
+    |   |   |       augmented_image_175.jpg
+    |   |   |       augmented_image_176.jpg
+    |   |   |       augmented_image_177.jpg
+    |   |   |       augmented_image_178.jpg
+    |   |   |       augmented_image_179.jpg
+    |   |   |       augmented_image_18.jpg
+    |   |   |       augmented_image_180.jpg
+    |   |   |       augmented_image_181.jpg
+    |   |   |       augmented_image_182.jpg
+    |   |   |       augmented_image_183.jpg
+    |   |   |       augmented_image_184.jpg
+    |   |   |       augmented_image_185.jpg
+    |   |   |       augmented_image_186.jpg
+    |   |   |       augmented_image_187.jpg
+    |   |   |       augmented_image_188.jpg
+    |   |   |       augmented_image_189.jpg
+    |   |   |       augmented_image_19.jpg
+    |   |   |       augmented_image_190.jpg
+    |   |   |       augmented_image_191.jpg
+    |   |   |       augmented_image_192.jpg
+    |   |   |       augmented_image_193.jpg
+    |   |   |       augmented_image_195.jpg
+    |   |   |       augmented_image_196.jpg
+    |   |   |       augmented_image_197.jpg
+    |   |   |       augmented_image_198.jpg
+    |   |   |       augmented_image_201.jpg
+    |   |   |       augmented_image_202.jpg
+    |   |   |       augmented_image_203.jpg
+    |   |   |       augmented_image_204.jpg
+    |   |   |       augmented_image_205.jpg
+    |   |   |       augmented_image_206.jpg
+    |   |   |       augmented_image_207.jpg
+    |   |   |       augmented_image_208.jpg
+    |   |   |       augmented_image_209.jpg
+    |   |   |       augmented_image_21.jpg
+    |   |   |       augmented_image_210.jpg
+    |   |   |       augmented_image_211.jpg
+    |   |   |       augmented_image_212.jpg
+    |   |   |       augmented_image_213.jpg
+    |   |   |       augmented_image_214.jpg
+    |   |   |       augmented_image_216.jpg
+    |   |   |       augmented_image_217.jpg
+    |   |   |       augmented_image_218.jpg
+    |   |   |       augmented_image_219.jpg
+    |   |   |       augmented_image_22.jpg
+    |   |   |       augmented_image_220.jpg
+    |   |   |       augmented_image_221.jpg
+    |   |   |       augmented_image_222.jpg
+    |   |   |       augmented_image_223.jpg
+    |   |   |       augmented_image_227.jpg
+    |   |   |       augmented_image_228.jpg
+    |   |   |       augmented_image_23.jpg
+    |   |   |       augmented_image_230.jpg
+    |   |   |       augmented_image_232.jpg
+    |   |   |       augmented_image_234.jpg
+    |   |   |       augmented_image_235.jpg
+    |   |   |       augmented_image_236.jpg
+    |   |   |       augmented_image_237.jpg
+    |   |   |       augmented_image_239.jpg
+    |   |   |       augmented_image_24.jpg
+    |   |   |       augmented_image_240.jpg
+    |   |   |       augmented_image_242.jpg
+    |   |   |       augmented_image_243.jpg
+    |   |   |       augmented_image_244.jpg
+    |   |   |       augmented_image_245.jpg
+    |   |   |       augmented_image_246.jpg
+    |   |   |       augmented_image_247.jpg
+    |   |   |       augmented_image_25.jpg
+    |   |   |       augmented_image_251.jpg
+    |   |   |       augmented_image_252.jpg
+    |   |   |       augmented_image_254.jpg
+    |   |   |       augmented_image_256.jpg
+    |   |   |       augmented_image_257.jpg
+    |   |   |       augmented_image_258.jpg
+    |   |   |       augmented_image_26.jpg
+    |   |   |       augmented_image_261.jpg
+    |   |   |       augmented_image_262.jpg
+    |   |   |       augmented_image_264.jpg
+    |   |   |       augmented_image_265.jpg
+    |   |   |       augmented_image_266.jpg
+    |   |   |       augmented_image_267.jpg
+    |   |   |       augmented_image_268.jpg
+    |   |   |       augmented_image_27.jpg
+    |   |   |       augmented_image_270.jpg
+    |   |   |       augmented_image_273.jpg
+    |   |   |       augmented_image_277.jpg
+    |   |   |       augmented_image_28.jpg
+    |   |   |       augmented_image_281.jpg
+    |   |   |       augmented_image_284.jpg
+    |   |   |       augmented_image_285.jpg
+    |   |   |       augmented_image_286.jpg
+    |   |   |       augmented_image_287.jpg
+    |   |   |       augmented_image_288.jpg
+    |   |   |       augmented_image_289.jpg
+    |   |   |       augmented_image_29.jpg
+    |   |   |       augmented_image_291.jpg
+    |   |   |       augmented_image_295.jpg
+    |   |   |       augmented_image_3.jpg
+    |   |   |       augmented_image_30.jpg
+    |   |   |       augmented_image_303.jpg
+    |   |   |       augmented_image_305.jpg
+    |   |   |       augmented_image_306.jpg
+    |   |   |       augmented_image_308.jpg
+    |   |   |       augmented_image_31.jpg
+    |   |   |       augmented_image_311.jpg
+    |   |   |       augmented_image_314.jpg
+    |   |   |       augmented_image_316.jpg
+    |   |   |       augmented_image_32.jpg
+    |   |   |       augmented_image_33.jpg
+    |   |   |       augmented_image_34.jpg
+    |   |   |       augmented_image_35.jpg
+    |   |   |       augmented_image_36.jpg
+    |   |   |       augmented_image_39.jpg
+    |   |   |       augmented_image_4.jpg
+    |   |   |       augmented_image_40.jpg
+    |   |   |       augmented_image_41.jpg
+    |   |   |       augmented_image_42.jpg
+    |   |   |       augmented_image_43.jpg
+    |   |   |       augmented_image_44.jpg
+    |   |   |       augmented_image_45.jpg
+    |   |   |       augmented_image_46.jpg
+    |   |   |       augmented_image_47.jpg
+    |   |   |       augmented_image_49.jpg
+    |   |   |       augmented_image_5.jpg
+    |   |   |       augmented_image_50.jpg
+    |   |   |       augmented_image_51.jpg
+    |   |   |       augmented_image_52.jpg
+    |   |   |       augmented_image_53.jpg
+    |   |   |       augmented_image_54.jpg
+    |   |   |       augmented_image_55.jpg
+    |   |   |       augmented_image_56.jpg
+    |   |   |       augmented_image_57.jpg
+    |   |   |       augmented_image_58.jpg
+    |   |   |       augmented_image_6.jpg
+    |   |   |       augmented_image_60.jpg
+    |   |   |       augmented_image_61.jpg
+    |   |   |       augmented_image_62.jpg
+    |   |   |       augmented_image_63.jpg
+    |   |   |       augmented_image_66.jpg
+    |   |   |       augmented_image_67.jpg
+    |   |   |       augmented_image_69.jpg
+    |   |   |       augmented_image_7.jpg
+    |   |   |       augmented_image_70.jpg
+    |   |   |       augmented_image_71.jpg
+    |   |   |       augmented_image_72.jpg
+    |   |   |       augmented_image_73.jpg
+    |   |   |       augmented_image_74.jpg
+    |   |   |       augmented_image_75.jpg
+    |   |   |       augmented_image_76.jpg
+    |   |   |       augmented_image_77.jpg
+    |   |   |       augmented_image_78.jpg
+    |   |   |       augmented_image_8.jpg
+    |   |   |       augmented_image_80.jpg
+    |   |   |       augmented_image_81.jpg
+    |   |   |       augmented_image_82.jpg
+    |   |   |       augmented_image_83.jpg
+    |   |   |       augmented_image_84.jpg
+    |   |   |       augmented_image_85.jpg
+    |   |   |       augmented_image_87.jpg
+    |   |   |       augmented_image_88.jpg
+    |   |   |       augmented_image_89.jpg
+    |   |   |       augmented_image_9.jpg
+    |   |   |       augmented_image_90.jpg
+    |   |   |       augmented_image_91.jpg
+    |   |   |       augmented_image_92.jpg
+    |   |   |       augmented_image_93.jpg
+    |   |   |       augmented_image_94.jpg
+    |   |   |       augmented_image_96.jpg
+    |   |   |       augmented_image_97.jpg
+    |   |   |       augmented_image_99.jpg
+    |   |   |       pra1.jpg
+    |   |   |       pra2.jpg
+    |   |   |       pra3.jpg
+    |   |   |       prajna.jpg
+    |   |   |       
+    |   |   \---nonmask
+    |   |           0.jpg
+    |   |           1.jpg
+    |   |           10.jpg
+    |   |           100.jpg
+    |   |           102.jpg
+    |   |           104.jpg
+    |   |           105.jpg
+    |   |           106.jpg
+    |   |           107.jpg
+    |   |           108.jpg
+    |   |           109.jpg
+    |   |           11.jpg
+    |   |           110.jpg
+    |   |           111.jpg
+    |   |           112.jpg
+    |   |           114.jpg
+    |   |           115.jpg
+    |   |           116.jpg
+    |   |           117.jpg
+    |   |           118.jpg
+    |   |           119.jpg
+    |   |           120.jpg
+    |   |           122.jpg
+    |   |           123.jpg
+    |   |           124.jpg
+    |   |           125.jpg
+    |   |           127.jpg
+    |   |           128.jpg
+    |   |           129.jpg
+    |   |           13.jpg
+    |   |           130.jpg
+    |   |           131.jpg
+    |   |           132.jpg
+    |   |           133.jpg
+    |   |           134.jpg
+    |   |           135.jpg
+    |   |           136.jpg
+    |   |           137.jpg
+    |   |           138.jpg
+    |   |           139.jpg
+    |   |           14.jpg
+    |   |           140.jpg
+    |   |           141.jpg
+    |   |           142.jpg
+    |   |           143.jpg
+    |   |           145.jpg
+    |   |           146.jpg
+    |   |           148.jpg
+    |   |           149.jpg
+    |   |           15.jpg
+    |   |           151.jpg
+    |   |           152.jpg
+    |   |           153.jpg
+    |   |           154.jpg
+    |   |           155.jpg
+    |   |           158.jpg
+    |   |           159.jpg
+    |   |           16.jpg
+    |   |           160.jpg
+    |   |           162.jpg
+    |   |           163.jpg
+    |   |           164.jpg
+    |   |           166.jpg
+    |   |           17.jpg
+    |   |           170.jpg
+    |   |           171.jpg
+    |   |           172.jpg
+    |   |           174.jpg
+    |   |           175.jpg
+    |   |           176.jpg
+    |   |           177.jpg
+    |   |           178.jpg
+    |   |           179.jpg
+    |   |           18.jpg
+    |   |           180.jpg
+    |   |           181.jpg
+    |   |           183.jpg
+    |   |           185.jpg
+    |   |           186.jpg
+    |   |           187.jpg
+    |   |           188.jpg
+    |   |           19.jpg
+    |   |           191.jpg
+    |   |           192.jpg
+    |   |           193.jpg
+    |   |           194.jpg
+    |   |           195.jpg
+    |   |           196.jpg
+    |   |           197.jpg
+    |   |           198.jpg
+    |   |           2.jpg
+    |   |           20.jpg
+    |   |           201.jpg
+    |   |           203.jpg
+    |   |           204.jpg
+    |   |           206.jpg
+    |   |           207.jpg
+    |   |           208.jpg
+    |   |           210.jpg
+    |   |           211.jpg
+    |   |           212.jpg
+    |   |           213.jpg
+    |   |           214.jpg
+    |   |           215.jpg
+    |   |           216.jpg
+    |   |           217.jpg
+    |   |           218.jpg
+    |   |           22.jpg
+    |   |           220.jpg
+    |   |           221.jpg
+    |   |           222.jpg
+    |   |           223.jpg
+    |   |           224.jpg
+    |   |           225.jpg
+    |   |           226.jpg
+    |   |           227.jpg
+    |   |           228.jpg
+    |   |           229.jpg
+    |   |           23.jpg
+    |   |           230.jpg
+    |   |           231.jpg
+    |   |           232.jpg
+    |   |           233.jpg
+    |   |           234.jpg
+    |   |           237.jpg
+    |   |           239.jpg
+    |   |           24.jpg
+    |   |           240.jpg
+    |   |           242.jpg
+    |   |           243.jpg
+    |   |           244.jpg
+    |   |           246.jpg
+    |   |           247.jpg
+    |   |           248.jpg
+    |   |           249.jpg
+    |   |           250.jpg
+    |   |           251.jpg
+    |   |           252.jpg
+    |   |           253.jpg
+    |   |           254.jpg
+    |   |           255.jpg
+    |   |           256.jpg
+    |   |           258.jpg
+    |   |           259.jpg
+    |   |           26.jpg
+    |   |           260.jpg
+    |   |           261.jpg
+    |   |           262.jpg
+    |   |           263.jpg
+    |   |           264.jpg
+    |   |           265.jpg
+    |   |           266.jpg
+    |   |           267.jpg
+    |   |           269.jpg
+    |   |           27.jpg
+    |   |           270.jpg
+    |   |           271.jpg
+    |   |           275.jpg
+    |   |           276.jpg
+    |   |           278.jpg
+    |   |           28.jpg
+    |   |           280.jpg
+    |   |           281.jpg
+    |   |           282.jpg
+    |   |           283.jpg
+    |   |           284.jpg
+    |   |           285.jpg
+    |   |           286.jpg
+    |   |           287.jpg
+    |   |           288.jpg
+    |   |           289.jpg
+    |   |           29.jpg
+    |   |           290.jpg
+    |   |           291.jpg
+    |   |           292.jpg
+    |   |           293.jpg
+    |   |           294.jpg
+    |   |           295.jpg
+    |   |           297.jpg
+    |   |           298.jpg
+    |   |           299.jpg
+    |   |           3.jpg
+    |   |           30.jpg
+    |   |           300.jpg
+    |   |           301.jpg
+    |   |           302.jpg
+    |   |           303.jpg
+    |   |           306.jpg
+    |   |           307.jpg
+    |   |           308.jpg
+    |   |           309.jpg
+    |   |           31.jpg
+    |   |           310.jpg
+    |   |           311.jpg
+    |   |           312.jpg
+    |   |           315.jpg
+    |   |           316.jpg
+    |   |           317.jpg
+    |   |           318.jpg
+    |   |           319.jpg
+    |   |           32.jpg
+    |   |           321.jpg
+    |   |           323.jpg
+    |   |           324.jpg
+    |   |           325.jpg
+    |   |           326.jpg
+    |   |           328.jpg
+    |   |           329.jpg
+    |   |           33.jpg
+    |   |           330.jpg
+    |   |           331.jpg
+    |   |           332.jpg
+    |   |           334.jpg
+    |   |           335.jpg
+    |   |           336.jpg
+    |   |           338.jpg
+    |   |           34.jpg
+    |   |           340.jpg
+    |   |           341.jpg
+    |   |           344.jpg
+    |   |           345.jpg
+    |   |           347.jpg
+    |   |           348.jpg
+    |   |           349.jpg
+    |   |           350.jpg
+    |   |           351.jpg
+    |   |           352.jpg
+    |   |           354.jpg
+    |   |           355.jpg
+    |   |           356.jpg
+    |   |           359.jpg
+    |   |           36.jpg
+    |   |           361.jpg
+    |   |           362.jpg
+    |   |           364.jpg
+    |   |           365.jpg
+    |   |           367.jpg
+    |   |           368.jpg
+    |   |           37.jpg
+    |   |           370.jpg
+    |   |           372.jpg
+    |   |           374.jpg
+    |   |           375.jpg
+    |   |           376.jpg
+    |   |           379.jpg
+    |   |           383.jpg
+    |   |           384.jpg
+    |   |           385.jpg
+    |   |           386.jpg
+    |   |           387.jpg
+    |   |           388.jpg
+    |   |           389.jpg
+    |   |           39.jpg
+    |   |           390.jpg
+    |   |           391.jpg
+    |   |           392.jpg
+    |   |           394.jpg
+    |   |           395.jpg
+    |   |           397.jpg
+    |   |           398.jpg
+    |   |           399.jpg
+    |   |           40.jpg
+    |   |           400.jpg
+    |   |           401.jpg
+    |   |           402.jpg
+    |   |           403.jpg
+    |   |           404.jpg
+    |   |           405.jpg
+    |   |           406.jpg
+    |   |           407.jpg
+    |   |           408.jpg
+    |   |           409.jpg
+    |   |           412.jpg
+    |   |           413.jpg
+    |   |           414.jpg
+    |   |           415.jpg
+    |   |           416.jpg
+    |   |           417.jpg
+    |   |           42.jpg
+    |   |           421.jpg
+    |   |           422.jpg
+    |   |           423.jpg
+    |   |           424.jpg
+    |   |           425.jpg
+    |   |           426.jpg
+    |   |           427.jpg
+    |   |           428.jpg
+    |   |           43.jpg
+    |   |           434.jpg
+    |   |           435.jpg
+    |   |           436.jpg
+    |   |           437.jpg
+    |   |           438.jpg
+    |   |           439.jpg
+    |   |           440.jpg
+    |   |           441.jpg
+    |   |           442.jpg
+    |   |           443.jpg
+    |   |           444.jpg
+    |   |           445.jpg
+    |   |           446.jpg
+    |   |           447.jpg
+    |   |           449.jpg
+    |   |           450.jpg
+    |   |           451.jpg
+    |   |           452.jpg
+    |   |           453.jpg
+    |   |           454.jpg
+    |   |           455.jpg
+    |   |           456.jpg
+    |   |           457.jpg
+    |   |           458.jpg
+    |   |           459.jpg
+    |   |           46.jpg
+    |   |           460.jpg
+    |   |           461.jpg
+    |   |           462.jpg
+    |   |           463.jpg
+    |   |           466.jpg
+    |   |           467.jpg
+    |   |           468.jpg
+    |   |           469.jpg
+    |   |           47.jpg
+    |   |           476.jpg
+    |   |           478.jpg
+    |   |           48.jpg
+    |   |           480.jpg
+    |   |           49.jpg
+    |   |           50.jpg
+    |   |           52.jpg
+    |   |           53.jpg
+    |   |           54.jpg
+    |   |           55.jpg
+    |   |           56.jpg
+    |   |           57.jpg
+    |   |           58.jpg
+    |   |           59.jpg
+    |   |           61.jpg
+    |   |           62.jpg
+    |   |           64.jpg
+    |   |           65.jpg
+    |   |           66.jpg
+    |   |           7.jpg
+    |   |           70.jpg
+    |   |           73.jpg
+    |   |           76.jpg
+    |   |           79.jpg
+    |   |           80.jpg
+    |   |           81.jpg
+    |   |           83.jpg
+    |   |           84.jpg
+    |   |           86.jpg
+    |   |           87.jpg
+    |   |           88.jpg
+    |   |           89.jpg
+    |   |           9.jpg
+    |   |           90.jpg
+    |   |           91.jpg
+    |   |           93.jpg
+    |   |           95.jpg
+    |   |           96.jpg
+    |   |           97.jpg
+    |   |           98.jpg
+    |   |           99.jpg
+    |   |           augmented_image_100.jpg
+    |   |           augmented_image_101.jpg
+    |   |           augmented_image_103.jpg
+    |   |           augmented_image_106.jpg
+    |   |           augmented_image_107.jpg
+    |   |           augmented_image_109.jpg
+    |   |           augmented_image_111.jpg
+    |   |           augmented_image_113.jpg
+    |   |           augmented_image_114.jpg
+    |   |           augmented_image_115.jpg
+    |   |           augmented_image_116.jpg
+    |   |           augmented_image_117.jpg
+    |   |           augmented_image_118.jpg
+    |   |           augmented_image_12.jpg
+    |   |           augmented_image_120.jpg
+    |   |           augmented_image_121.jpg
+    |   |           augmented_image_123.jpg
+    |   |           augmented_image_124.jpg
+    |   |           augmented_image_125.jpg
+    |   |           augmented_image_126.jpg
+    |   |           augmented_image_127.jpg
+    |   |           augmented_image_128.jpg
+    |   |           augmented_image_130.jpg
+    |   |           augmented_image_131.jpg
+    |   |           augmented_image_132.jpg
+    |   |           augmented_image_133.jpg
+    |   |           augmented_image_134.jpg
+    |   |           augmented_image_135.jpg
+    |   |           augmented_image_136.jpg
+    |   |           augmented_image_137.jpg
+    |   |           augmented_image_138.jpg
+    |   |           augmented_image_139.jpg
+    |   |           augmented_image_14.jpg
+    |   |           augmented_image_140.jpg
+    |   |           augmented_image_141.jpg
+    |   |           augmented_image_142.jpg
+    |   |           augmented_image_143.jpg
+    |   |           augmented_image_144.jpg
+    |   |           augmented_image_145.jpg
+    |   |           augmented_image_147.jpg
+    |   |           augmented_image_148.jpg
+    |   |           augmented_image_149.jpg
+    |   |           augmented_image_150.jpg
+    |   |           augmented_image_151.jpg
+    |   |           augmented_image_152.jpg
+    |   |           augmented_image_153.jpg
+    |   |           augmented_image_154.jpg
+    |   |           augmented_image_155.jpg
+    |   |           augmented_image_156.jpg
+    |   |           augmented_image_157.jpg
+    |   |           augmented_image_158.jpg
+    |   |           augmented_image_16.jpg
+    |   |           augmented_image_160.jpg
+    |   |           augmented_image_161.jpg
+    |   |           augmented_image_162.jpg
+    |   |           augmented_image_163.jpg
+    |   |           augmented_image_164.jpg
+    |   |           augmented_image_165.jpg
+    |   |           augmented_image_166.jpg
+    |   |           augmented_image_168.jpg
+    |   |           augmented_image_169.jpg
+    |   |           augmented_image_17.jpg
+    |   |           augmented_image_170.jpg
+    |   |           augmented_image_171.jpg
+    |   |           augmented_image_172.jpg
+    |   |           augmented_image_173.jpg
+    |   |           augmented_image_174.jpg
+    |   |           augmented_image_176.jpg
+    |   |           augmented_image_178.jpg
+    |   |           augmented_image_179.jpg
+    |   |           augmented_image_18.jpg
+    |   |           augmented_image_180.jpg
+    |   |           augmented_image_181.jpg
+    |   |           augmented_image_183.jpg
+    |   |           augmented_image_184.jpg
+    |   |           augmented_image_185.jpg
+    |   |           augmented_image_186.jpg
+    |   |           augmented_image_188.jpg
+    |   |           augmented_image_189.jpg
+    |   |           augmented_image_191.jpg
+    |   |           augmented_image_192.jpg
+    |   |           augmented_image_193.jpg
+    |   |           augmented_image_194.jpg
+    |   |           augmented_image_196.jpg
+    |   |           augmented_image_197.jpg
+    |   |           augmented_image_198.jpg
+    |   |           augmented_image_199.jpg
+    |   |           augmented_image_2.jpg
+    |   |           augmented_image_20.jpg
+    |   |           augmented_image_200.jpg
+    |   |           augmented_image_201.jpg
+    |   |           augmented_image_202.jpg
+    |   |           augmented_image_204.jpg
+    |   |           augmented_image_205.jpg
+    |   |           augmented_image_206.jpg
+    |   |           augmented_image_207.jpg
+    |   |           augmented_image_208.jpg
+    |   |           augmented_image_209.jpg
+    |   |           augmented_image_21.jpg
+    |   |           augmented_image_210.jpg
+    |   |           augmented_image_211.jpg
+    |   |           augmented_image_214.jpg
+    |   |           augmented_image_215.jpg
+    |   |           augmented_image_216.jpg
+    |   |           augmented_image_219.jpg
+    |   |           augmented_image_22.jpg
+    |   |           augmented_image_221.jpg
+    |   |           augmented_image_222.jpg
+    |   |           augmented_image_223.jpg
+    |   |           augmented_image_224.jpg
+    |   |           augmented_image_225.jpg
+    |   |           augmented_image_227.jpg
+    |   |           augmented_image_229.jpg
+    |   |           augmented_image_23.jpg
+    |   |           augmented_image_230.jpg
+    |   |           augmented_image_231.jpg
+    |   |           augmented_image_232.jpg
+    |   |           augmented_image_236.jpg
+    |   |           augmented_image_238.jpg
+    |   |           augmented_image_239.jpg
+    |   |           augmented_image_240.jpg
+    |   |           augmented_image_241.jpg
+    |   |           augmented_image_243.jpg
+    |   |           augmented_image_244.jpg
+    |   |           augmented_image_246.jpg
+    |   |           augmented_image_249.jpg
+    |   |           augmented_image_25.jpg
+    |   |           augmented_image_250.jpg
+    |   |           augmented_image_251.jpg
+    |   |           augmented_image_252.jpg
+    |   |           augmented_image_253.jpg
+    |   |           augmented_image_254.jpg
+    |   |           augmented_image_255.jpg
+    |   |           augmented_image_257.jpg
+    |   |           augmented_image_258.jpg
+    |   |           augmented_image_260.jpg
+    |   |           augmented_image_262.jpg
+    |   |           augmented_image_263.jpg
+    |   |           augmented_image_265.jpg
+    |   |           augmented_image_266.jpg
+    |   |           augmented_image_269.jpg
+    |   |           augmented_image_27.jpg
+    |   |           augmented_image_271.jpg
+    |   |           augmented_image_272.jpg
+    |   |           augmented_image_275.jpg
+    |   |           augmented_image_277.jpg
+    |   |           augmented_image_278.jpg
+    |   |           augmented_image_279.jpg
+    |   |           augmented_image_281.jpg
+    |   |           augmented_image_282.jpg
+    |   |           augmented_image_283.jpg
+    |   |           augmented_image_284.jpg
+    |   |           augmented_image_285.jpg
+    |   |           augmented_image_286.jpg
+    |   |           augmented_image_287.jpg
+    |   |           augmented_image_290.jpg
+    |   |           augmented_image_291.jpg
+    |   |           augmented_image_292.jpg
+    |   |           augmented_image_293.jpg
+    |   |           augmented_image_294.jpg
+    |   |           augmented_image_295.jpg
+    |   |           augmented_image_296.jpg
+    |   |           augmented_image_297.jpg
+    |   |           augmented_image_298.jpg
+    |   |           augmented_image_299.jpg
+    |   |           augmented_image_30.jpg
+    |   |           augmented_image_301.jpg
+    |   |           augmented_image_303.jpg
+    |   |           augmented_image_305.jpg
+    |   |           augmented_image_306.jpg
+    |   |           augmented_image_307.jpg
+    |   |           augmented_image_308.jpg
+    |   |           augmented_image_309.jpg
+    |   |           augmented_image_31.jpg
+    |   |           augmented_image_310.jpg
+    |   |           augmented_image_311.jpg
+    |   |           augmented_image_312.jpg
+    |   |           augmented_image_314.jpg
+    |   |           augmented_image_315.jpg
+    |   |           augmented_image_316.jpg
+    |   |           augmented_image_317.jpg
+    |   |           augmented_image_318.jpg
+    |   |           augmented_image_319.jpg
+    |   |           augmented_image_32.jpg
+    |   |           augmented_image_33.jpg
+    |   |           augmented_image_35.jpg
+    |   |           augmented_image_36.jpg
+    |   |           augmented_image_37.jpg
+    |   |           augmented_image_38.jpg
+    |   |           augmented_image_39.jpg
+    |   |           augmented_image_4.jpg
+    |   |           augmented_image_40.jpg
+    |   |           augmented_image_41.jpg
+    |   |           augmented_image_42.jpg
+    |   |           augmented_image_43.jpg
+    |   |           augmented_image_44.jpg
+    |   |           augmented_image_45.jpg
+    |   |           augmented_image_48.jpg
+    |   |           augmented_image_5.jpg
+    |   |           augmented_image_50.jpg
+    |   |           augmented_image_51.jpg
+    |   |           augmented_image_52.jpg
+    |   |           augmented_image_53.jpg
+    |   |           augmented_image_54.jpg
+    |   |           augmented_image_55.jpg
+    |   |           augmented_image_56.jpg
+    |   |           augmented_image_57.jpg
+    |   |           augmented_image_58.jpg
+    |   |           augmented_image_59.jpg
+    |   |           augmented_image_60.jpg
+    |   |           augmented_image_61.jpg
+    |   |           augmented_image_62.jpg
+    |   |           augmented_image_63.jpg
+    |   |           augmented_image_64.jpg
+    |   |           augmented_image_65.jpg
+    |   |           augmented_image_66.jpg
+    |   |           augmented_image_67.jpg
+    |   |           augmented_image_68.jpg
+    |   |           augmented_image_69.jpg
+    |   |           augmented_image_7.jpg
+    |   |           augmented_image_70.jpg
+    |   |           augmented_image_71.jpg
+    |   |           augmented_image_72.jpg
+    |   |           augmented_image_73.jpg
+    |   |           augmented_image_74.jpg
+    |   |           augmented_image_76.jpg
+    |   |           augmented_image_77.jpg
+    |   |           augmented_image_78.jpg
+    |   |           augmented_image_80.jpg
+    |   |           augmented_image_81.jpg
+    |   |           augmented_image_82.jpg
+    |   |           augmented_image_83.jpg
+    |   |           augmented_image_84.jpg
+    |   |           augmented_image_85.jpg
+    |   |           augmented_image_86.jpg
+    |   |           augmented_image_87.jpg
+    |   |           augmented_image_88.jpg
+    |   |           augmented_image_89.jpg
+    |   |           augmented_image_90.jpg
+    |   |           augmented_image_91.jpg
+    |   |           augmented_image_92.jpg
+    |   |           augmented_image_93.jpg
+    |   |           augmented_image_94.jpg
+    |   |           augmented_image_95.jpg
+    |   |           augmented_image_96.jpg
+    |   |           augmented_image_97.jpg
+    |   |           augmented_image_98.jpg
+    |   |           augmented_image_99.jpg
+    |   |           
+    |   \---validate
+    |       +---mask
+    |       |       11-with-mask.jpg
+    |       |       111-with-mask.jpg
+    |       |       13-with-mask.jpg
+    |       |       165-with-mask.jpg
+    |       |       170-with-mask.jpg
+    |       |       175-with-mask.jpg
+    |       |       179-with-mask.jpg
+    |       |       198-with-mask.jpg
+    |       |       204-with-mask.jpg
+    |       |       245-with-mask.jpg
+    |       |       252-with-mask.jpg
+    |       |       253-with-mask.jpg
+    |       |       261-with-mask.jpg
+    |       |       27-with-mask.jpg
+    |       |       279-with-mask.jpg
+    |       |       282-with-mask.jpg
+    |       |       294-with-mask.jpg
+    |       |       297-with-mask.jpg
+    |       |       301-with-mask.jpg
+    |       |       305-with-mask.jpg
+    |       |       308-with-mask.jpg
+    |       |       313-with-mask.jpg
+    |       |       33-with-mask.jpg
+    |       |       335-with-mask.jpg
+    |       |       336-with-mask.jpg
+    |       |       351-with-mask.jpg
+    |       |       377-with-mask.jpg
+    |       |       381-with-mask.jpg
+    |       |       385-with-mask.jpg
+    |       |       398-with-mask.jpg
+    |       |       41-with-mask.jpg
+    |       |       448-with-mask.jpg
+    |       |       449-with-mask.jpg
+    |       |       454-with-mask.jpg
+    |       |       466-with-mask.jpg
+    |       |       467-with-mask.jpg
+    |       |       51-with-mask.jpg
+    |       |       59-with-mask.jpg
+    |       |       70-with-mask.jpg
+    |       |       71-with-mask.jpg
+    |       |       74-with-mask.jpg
+    |       |       86-with-mask.jpg
+    |       |       augmented_image_110.jpg
+    |       |       augmented_image_12.jpg
+    |       |       augmented_image_126.jpg
+    |       |       augmented_image_131.jpg
+    |       |       augmented_image_133.jpg
+    |       |       augmented_image_14.jpg
+    |       |       augmented_image_141.jpg
+    |       |       augmented_image_143.jpg
+    |       |       augmented_image_147.jpg
+    |       |       augmented_image_161.jpg
+    |       |       augmented_image_166.jpg
+    |       |       augmented_image_194.jpg
+    |       |       augmented_image_199.jpg
+    |       |       augmented_image_2.jpg
+    |       |       augmented_image_20.jpg
+    |       |       augmented_image_200.jpg
+    |       |       augmented_image_215.jpg
+    |       |       augmented_image_238.jpg
+    |       |       augmented_image_280.jpg
+    |       |       augmented_image_296.jpg
+    |       |       augmented_image_299.jpg
+    |       |       augmented_image_300.jpg
+    |       |       augmented_image_310.jpg
+    |       |       augmented_image_315.jpg
+    |       |       augmented_image_37.jpg
+    |       |       augmented_image_38.jpg
+    |       |       augmented_image_48.jpg
+    |       |       augmented_image_59.jpg
+    |       |       augmented_image_64.jpg
+    |       |       augmented_image_65.jpg
+    |       |       augmented_image_68.jpg
+    |       |       augmented_image_79.jpg
+    |       |       augmented_image_86.jpg
+    |       |       augmented_image_98.jpg
+    |       |       
+    |       \---nonmask
+    |               101.jpg
+    |               12.jpg
+    |               156.jpg
+    |               157.jpg
+    |               161.jpg
+    |               168.jpg
+    |               169.jpg
+    |               173.jpg
+    |               184.jpg
+    |               241.jpg
+    |               322.jpg
+    |               327.jpg
+    |               337.jpg
+    |               339.jpg
+    |               353.jpg
+    |               360.jpg
+    |               363.jpg
+    |               373.jpg
+    |               378.jpg
+    |               393.jpg
+    |               4.jpg
+    |               410.jpg
+    |               411.jpg
+    |               419.jpg
+    |               420.jpg
+    |               430.jpg
+    |               431.jpg
+    |               432.jpg
+    |               44.jpg
+    |               448.jpg
+    |               45.jpg
+    |               464.jpg
+    |               465.jpg
+    |               475.jpg
+    |               477.jpg
+    |               51.jpg
+    |               6.jpg
+    |               63.jpg
+    |               67.jpg
+    |               69.jpg
+    |               74.jpg
+    |               77.jpg
+    |               92.jpg
+    |               94.jpg
+    |               augmented_image_1.jpg
+    |               augmented_image_105.jpg
+    |               augmented_image_112.jpg
+    |               augmented_image_119.jpg
+    |               augmented_image_122.jpg
+    |               augmented_image_129.jpg
+    |               augmented_image_13.jpg
+    |               augmented_image_175.jpg
+    |               augmented_image_177.jpg
+    |               augmented_image_182.jpg
+    |               augmented_image_187.jpg
+    |               augmented_image_19.jpg
+    |               augmented_image_203.jpg
+    |               augmented_image_220.jpg
+    |               augmented_image_226.jpg
+    |               augmented_image_233.jpg
+    |               augmented_image_234.jpg
+    |               augmented_image_235.jpg
+    |               augmented_image_237.jpg
+    |               augmented_image_245.jpg
+    |               augmented_image_256.jpg
+    |               augmented_image_267.jpg
+    |               augmented_image_270.jpg
+    |               augmented_image_273.jpg
+    |               augmented_image_276.jpg
+    |               augmented_image_280.jpg
+    |               augmented_image_3.jpg
+    |               augmented_image_302.jpg
+    |               augmented_image_304.jpg
+    |               augmented_image_79.jpg
+    |               
+    +---face_detector
+    |       deploy.prototxt
+    |       res10_300x300_ssd_iter_140000.caffemodel
+    |       
+    \---Success_Images
+            accuracy.JPG
+            detection.JPG
+            pic.JPG
+            test.JPG
+            
