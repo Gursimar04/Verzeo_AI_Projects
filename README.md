@@ -15,7 +15,7 @@
 - [Author Info](#author-info)
 
 ---
-## Project-Directory
+## Project-Directory ##
 
 ``` bash 
 +---Outstanding Projects
@@ -126,17 +126,17 @@
 
 
 ```
-## Outstanding-Projects
+## Outstanding-Projects ##
 These 3 projects were completely optional and were to be done without any mentor guidance in exchange for an outstanding performer certificate.
-    ### CNN-for-MNIST-Dataset
-    ### Motion-Detection-using-Pixel-Differencing
-    ### Pedestrian-Detection-using-OPENCV
+    ### CNN-for-MNIST-Dataset ###
+    ### Motion-Detection-using-Pixel-Differencing ###
+    ### Pedestrian-Detection-using-OPENCV ###
     
-## Major-Projects
-    ### Tensorflow-Speech-Recognition-Challenge
-    ### Speech-Translation-using-Google-APIs
+## Major-Projects ##
+    ### Tensorflow-Speech-Recognition-Challenge ###
+    ### Speech-Translation-using-Google-APIs ###
 ## Minor-Projects
-    ### CNN-for-Mask-Detection
+    ### CNN-for-Mask-Detection ###
 
 ---
 
