@@ -142,6 +142,7 @@ These 3 projects were completely optional and were to be done without any mentor
   OpenCV ships with a pre-trained HOG + Linear SVM model that can be used to perform pedestrian detection in both images and video streams. HOG stands for Histogram of Oriented Gradients. We will be using that to our advantage in this project. Read the ipynb file for more information
   
   <img src="Outstanding Projects/Pedestrian Detection/Pedestrian/people-using-crosswalk-1024x569.jpg" width=305 height=200> <img src="Outstanding Projects/Pedestrian Detection/output.JPG"  width=305 height=200>
+  
 ---
   
 ## Major-Projects
@@ -151,10 +152,13 @@ The folder consists of Audio-specific neural network model and a speech translat
    **Link to dataset:**  https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
     In this link one can find all the details related to this project.
      **Example(Audio Files) present in the folder**
+     
    ### Speech-Translation-using-Google-APIs
-  In this project we have taken advantage of speech recognizer, googletrans, and gTTS to translate audio into 50 different languages. The project is created with using this technique in a form of an app in the future. Peek into the IPYNB file for further details.
- **Example(Audio Files) present in the folder**
+   In this project we have taken advantage of speech recognizer, googletrans, and gTTS to translate audio into 50 different languages. The project is created with an intent of devloping an app in the future.Peek into IPYNB file for more details.
+   **Example(Audio Files) present in the folder**
+   
 ---
+
  ## Minor-Project
    ### CNN-for-Mask-Detection
    This model represents my first try at creating a deep learning model. Considering that it was my first attempt at binary calssification, it needs a lot of work and demands improvement. Will be doing it soon though.
