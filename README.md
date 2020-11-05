@@ -1,5 +1,4 @@
 # Verzeo_AI_Projects
----
 
 ### Table Of Contents
 - [Project-Directory](#project-directory)
@@ -137,15 +136,20 @@ These 3 projects were completely optional and were to be done without any mentor
     
    ### Pedestrian-Detection-using-OPENCV
   OpenCV ships with a pre-trained HOG + Linear SVM model that can be used to perform pedestrian detection in both images and video streams. HOG stands for Histogram of Oriented Gradients. We will be using that to our advantage in this project. Read the ipynb file for more information
-    
+  
+---
+  
 ## Major-Projects
 The folder consists of Audio-specific neural network model and a speech translation model created using Google APIs.
-    ### Tensorflow-Speech-Recognition-Challenge
-    **Link to dataset:**  https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
+
+   ### Tensorflow-Speech-Recognition-Challenge
+   **Link to dataset:**  https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
     In this link one can find all the details related to this project.
     
    ### Speech-Translation-using-Google-APIs
   In this project we have taken advantage of speech recognizer, googletrans, and gTTS to translate audio into 50 different languages. The project is created with using this technique in a form of an app in the future. Peek into the IPYNB file for further details.
+  
+---
  ## Minor-Project
    ### CNN-for-Mask-Detection
    This model represents my first try at creating a deep learning model. Considering that it was my first attempt at binary calssification, it needs a lot of work and demands improvement. Will be doing it soon though.
